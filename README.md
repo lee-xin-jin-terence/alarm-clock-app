@@ -11,7 +11,3 @@ A simple android alarm clock app<br/><br/>
    **Design Patterns:** Object-Oriented Programming (OOP), Model-View-Controller (MVC)<br/><br/>
    **Tools:** Android Studio<br/><br/>
    
-
-
-## Note:
-   The OpenWeatherMap API Key is deliberately omitted from the source code.
